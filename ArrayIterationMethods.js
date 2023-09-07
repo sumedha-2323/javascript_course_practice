@@ -1,0 +1,9 @@
+// powerfull array methods...
+// forEach, map, filter, find, reduce...
+// iterate over array - no for loop required if these methods used....
+// accept callback fun as an argument, calls callback against each item in an array. Reference item in the callback parameter.
+
+const num = [0,1,3,4,5];
+for (let i = 0;i<num.length;i++) {
+    console.log(num[i]);
+}
